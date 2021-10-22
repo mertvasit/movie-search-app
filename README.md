@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#movie-search-app
+
+![Movie-Search-Google-Chrome-2021](https://user-images.githubusercontent.com/66256483/138443484-e9eb499e-6cbe-42a0-98e8-86d006062590.gif)
+
 
 ## Available Scripts
 
